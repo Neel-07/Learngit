@@ -8,6 +8,6 @@ class sum{
         a=sc.nextInt();
         System.out.println("Enter the second number");
         b=sc.nextInt();
-        System.out.println(a+b);
+        System.out.println("The sum is "+a+b);
     }
 }
